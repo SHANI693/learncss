@@ -9,8 +9,9 @@ P{
 }
 
 
-h{ font-family: 'Arial', sans-serif;
-    font-size: 16px;
+h1{
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
     color: #333333;
     line-height: 1.5;
  }
